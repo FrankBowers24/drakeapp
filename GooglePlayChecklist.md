@@ -20,5 +20,6 @@ $ jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-ke
 $ $ANDROID_HOME/build-tools/22.0.1/zipalign -v 4 android-release-unsigned.apk Phavr.apk
 
 
-Version  Sha
+Version  GitHub Sha
 0.0.2    50a9da41e6bc8dea5a75d80c8a9b256036cc46a3
+0.0.3    3e35cc25a2ed1b986243e2b15e567d4d44b0f232
